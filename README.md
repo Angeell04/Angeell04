@@ -1,119 +1,147 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Ángel%20Miranda%20Molina&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Multiplatform%20Application%20Development%20(DAM)&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" />
-</div>
 
-<div align="center">
+# 👋 Hola, soy Ángel Miranda Molina
+
+<!-- Animación tipográfica dinámica -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=0284C7&center=true&vCenter=true&width=600&lines=Desarrollador+M%C3%B3vil+Flutter+%26+Multiplataforma;Backend+con+Java+%26+Node.js+(TypeScript);Automatizaci%C3%B3n+y+Scraping+con+Python;Estudiante+de+2%C2%BA+DAM+%7C+Buscando+FCT+2027" alt="Typing SVG" />
+</a>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/%C3%A1ngel-miranda-75966b344/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:angelmirandamolina04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="tel:697696189">
-    <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Ubicación-Jaén%20%7C%20Granada%20%7C%20Remoto-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación" />
   </a>
-</div>
-
-<br/>
-
----
-
-### 🚀 Sobre mí
-
-Soy estudiante de **2º curso de Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasionado por el desarrollo de software limpio, la experiencia de usuario y la arquitectura de sistemas escalables.
-
-- 🎓 Actualmente preparando mis prácticas de **Formación en Centros de Trabajo (FCT)**.
-- 📱 Especializado en el desarrollo de aplicaciones móviles y de escritorio con **Flutter & Dart**.
-- ⚙️ Experiencia en el diseño y consumo de arquitecturas backend robustas con **Java & Spring Boot**.
-- 🛠️ Actualmente desarrollando mi TFG: un **gestor de tareas multiplataforma avanzado** con layouts y widgets adaptativos.
-- 📍 Buscando oportunidades de prácticas/empleo presenciales en **Jaén / Granada** o en remoto.
-
----
-
-### 💻 Stack Tecnológico & Herramientas
-
-<div align="left">
-
-#### 📱 Frontend & Multiplataforma
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="28" />
 </p>
 
-#### ⚙️ Backend & Lógica de Negocio
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" height="28" />
-</p>
+---
 
-#### 🗄️ Bases de Datos & Persistencia
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="28" />
-</p>
-
-#### 🛠️ Herramientas, Entorno & Control de Versiones
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28" />
-</p>
+### 🎯 Objetivo de Carrera
+**Buscando empresa para prácticas FCT (Marzo – Junio 2027) con proyección a incorporación Junior.**  
+*Especial interés en desarrollo móvil con Flutter, arquitectura backend y herramientas de automatización de producto.*
 
 </div>
 
 ---
 
-### 📌 Proyectos Destacados
+## 💻 Tecnologías & Herramientas
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h4 align="center">📱 Gestor de Tareas Adaptativo (TFG)</h4>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Flutter-Dart-blue" />
-          <img src="https://img.shields.io/badge/Arquitectura-Limpia-green" />
-        </p>
-        <p>Aplicación multiplataforma orientada a la productividad con layouts adaptables a múltiples factores de forma, gestión de estado reactiva y persistencia local/cloud.</p>
-      </td>
-      <td width="50%" valign="top">
-        <h4 align="center">⚙️ Backend RESTful con Spring Boot</h4>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Java-Spring_Boot-orange" />
-          <img src="https://img.shields.io/badge/Base_de_Datos-MySQL-lightgrey" />
-        </p>
-        <p>Arquitectura multicapa con servicios desacoplados, autenticación, validación de datos, control de excepciones y persistencia mediante JPA / Hibernate.</p>
-      </td>
-    </tr>
-  </table>
+
+#### 📱 Mobile & Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,angular,html,css&theme=dark" alt="Mobile & Frontend" />
+</a>
+
+#### ⚙️ Backend & Bases de Datos
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,ts,express,mysql,firebase&theme=dark" alt="Backend & Databases" />
+</a>
+
+#### 🛠️ Automatización, Scripting & Entorno
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode&theme=dark" alt="Tools" />
+</a>
+
 </div>
 
 ---
 
-### 📊 Actividad en GitHub
+## 🚀 Proyectos Destacados
+
+<table align="center" width="100%">
+  <!-- PROYECTO 1 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        📱 <a href="https://github.com/Angeell04/flutter-iphone-duo-tasks">iPhone Duo Task Manager</a>
+      </h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Flutter & Firebase" />
+      </p>
+      <p><b>Trabajo de Fin de Grado (TFG) — En Desarrollo Activo (2026-2027)</b></p>
+      <ul>
+        <li>App reactiva diseñada específicamente para el nuevo <b>iPhone Duo</b> plegable/doble pantalla.</li>
+        <li>Transición en caliente de pantalla exterior (modo compacto) a pantalla interior desplegada (<i>Master-Detail</i>) <b>sin pérdida de estado</b>.</li>
+        <li>Arquitectura limpia desacoplada y sincronización en tiempo real.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Angeell04/flutter-iphone-duo-tasks"><b>Ver Repositorio ➔</b></a>
+      </p>
+    </td>
+    <!-- PROYECTO 2 -->
+    <td width="50%" valign="top">
+      <h3 align="center">
+        🤖 <a href="https://github.com/Angeell04/ai-job-matcher-crm">AI Job Matcher & CRM Local</a>
+      </h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python Automation" />
+      </p>
+      <p><b>Pipeline autónomo de extracción y análisis de empleo 100% local</b></p>
+      <ul>
+        <li>Web scraping con <b>Scrapling</b> capaz de saltar protecciones y Cloudflare.</li>
+        <li>Clasificación y cálculo de compatibilidad técnica (Score 0-100%) mediante IA local sin coste de APIs.</li>
+        <li>Generación de cartas a medida y enlaces de Gmail listos para enviar en un clic.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Angeell04/ai-job-matcher-crm"><b>Ver Repositorio ➔</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROYECTO 3 Y 4 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        🔔 <a href="https://github.com/Angeell04/pc-to-mobile-notification-bridge">PC-to-Mobile Realtime Bridge</a>
+      </h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,firebase&theme=dark" alt="Python & Firebase" />
+      </p>
+      <p><b>Monitorización y alertas push instantáneas en Pixel 9a</b></p>
+      <ul>
+        <li>Conexión en tiempo real entre procesos largos del ordenador y dispositivo móvil vía <b>Firebase RTDB</b>.</li>
+        <li>Envío de resumen, telemetría y estado con sonido y vibración personalizada.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Angeell04/pc-to-mobile-notification-bridge"><b>Ver Repositorio ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        🌐 <a href="https://github.com/Angeell04/typescript-express-clean-api">TypeScript Express Clean API</a>
+      </h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,express,mysql&theme=dark" alt="Node TS API" />
+      </p>
+      <p><b>Servicio Backend RESTful con Arquitectura Modular</b></p>
+      <ul>
+        <li>Diseño de API RESTful con tipado estricto en TypeScript y separación de rutas con <code>Router()</code>.</li>
+        <li>Control centralizado de errores, middlewares de validación y persistencia relacional en MySQL.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Angeell04/typescript-express-clean-api"><b>Ver Repositorio ➔</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angeell04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angeell04&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Angeell04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angeell04&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angeell04&theme=tokyonight&hide_border=true" width="97%" />
-</div>
-
-<br/>
 
 ---
 
 <div align="center">
-  <sub>Construido con ganas de seguir aprendiendo y aportando valor. ¡No dudes en contactarme para colaborar o comentar proyectos!</sub>
+  <sub>Diseñado con enfoque en código limpio y arquitectura multiplataforma • 2026 - 2027</sub>
 </div>
