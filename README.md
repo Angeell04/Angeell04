@@ -194,7 +194,7 @@ Estudiante de **2º de DAM** enfocado en el desarrollo de software de alto impac
         <li>Disparo de notificaciones flotantes con sonido y patrones de vibración personalizados.</li>
       </ul>
       <p align="right">
-        <a href="https://github.com/Angeell04/pc-to-mobile-notification-bridge"><b>Explorar Código ➔</b></a>
+        <a href="https://github.com/Angeell04/flutter-realtime-task-monitor"><b>Explorar Código ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
