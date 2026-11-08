@@ -181,7 +181,7 @@ Estudiante de **2º de DAM** enfocado en el desarrollo de software de alto impac
   <!-- FILA 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🔔 <a href="https://github.com/Angeell04/pc-to-mobile-notification-bridge">PC-to-Mobile Realtime Bridge</a></h3>
+      <h3>🔔 <a href="https://github.com/Angeell04/flutter-realtime-task-monitor">PC-to-Mobile Realtime Bridge</a></h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase_RTDB-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
